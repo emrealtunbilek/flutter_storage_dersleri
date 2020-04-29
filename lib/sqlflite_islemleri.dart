@@ -16,8 +16,7 @@ class _SqfliteIslemleriState extends State<SqfliteIslemleri> {
   var _scaffoldKey = GlobalKey<ScaffoldState>();
   int tiklanilanOgrenciIndeksi;
   int tiklanilanOgrenciIDsi;
-
-
+  
   @override
   void initState() {
     // TODO: implement initState
